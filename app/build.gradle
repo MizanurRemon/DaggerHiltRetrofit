@@ -105,5 +105,7 @@ dependencies {
     //enable by ViewModels
     implementation "androidx.activity:activity-ktx:1.6.1"
 
+    implementation 'com.github.Spikeysanju:MotionToast:1.4'
+
 
 }
